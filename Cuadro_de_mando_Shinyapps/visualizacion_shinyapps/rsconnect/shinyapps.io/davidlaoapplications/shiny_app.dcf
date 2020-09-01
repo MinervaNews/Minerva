@@ -1,0 +1,12 @@
+name: shiny_app
+title: shiny_app
+username:
+account: davidlaoapplications
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2417640
+bundleId: 3550776
+url: https://minervanews.shinyapps.io/shiny_app/
+when: 1598264234.13696
+asMultiple: FALSE
+asStatic: FALSE
