@@ -10,4 +10,4 @@ En este repositorio se encuentran los scripts notebooks desarrollados en el TFM 
 - Sistema_Recomendacion
 - Twitter
 
-*En el siguiente [enlacece](https://drive.google.com/drive/folders/1LRe2ZTy9ofoz3lMnEQcnprglmlK5f4em?usp=sharing) se encuentran los datos adquiridos en el proceso de web scraping y utilizados en el resto de proecesos.
+*En el siguiente [enlace](https://drive.google.com/drive/folders/1LRe2ZTy9ofoz3lMnEQcnprglmlK5f4em?usp=sharing) se encuentran los datos adquiridos en el proceso de web scraping y utilizados en el resto de proecesos.
